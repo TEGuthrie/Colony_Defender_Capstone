@@ -13,7 +13,7 @@ if ((wave % 3) == 0)
 if(burst_cost != (10+(gun_burst_mod-1)*5))
 {
 	burst_cost = 10+(gun_burst_mod-1)*5
-	burst_str = "Burst fire \nupgrade costs:\n" + string(burst_cost) + " energy"
+	burst_str = "Press B \nBurst fire \nupgrade costs:\n" + string(burst_cost) + " energy"
 }
 
 //Win detection

@@ -28,4 +28,4 @@ t1_pause = 0;
 //
 burst_cost = 10;
 burst_cost_mod = 0;
-burst_str = "Burst fire \nupgrade costs:\n" + string(burst_cost) + " energy"
+burst_str = "Press B \nBurst fire \nupgrade costs:\n" + string(burst_cost) + " energy"
